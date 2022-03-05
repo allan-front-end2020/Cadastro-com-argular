@@ -1,0 +1,11 @@
+.title {
+    text-align: center;
+    color: blue;
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-size: 50px;
+    margin: 60px
+}
+
+.subtitle {
+    color: yellow;
+}
